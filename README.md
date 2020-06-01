@@ -5,6 +5,7 @@ Learning irreducible representations of noncommutative Lie groups, applied to co
 
 
 ![4D "Lorentz harmonics", analogues of the "spherical harmonic" functions](figs/poincare_lorentz_harmonics_small.gif)
+
 The tensor product of two 4D irreps of $\text{SO}(3,1)$ decomposes as the direct sum of a 1D representation (known in physics as the "spacetime interval"), 9D irrep, and 2 isomorphic 3D irreps. I.e., $4 \otimes 4 = 1 \oplus 3 \oplus 3 \oplus 9$.
 
 Let $u = (u_1, ..., u_9)$ denote the 9D irrep decomposed from the tensor product $v \otimes v$ where $v = (t,x,y,z)$ is a spacetime 4-vector. The animated figure above depicts the 9 components of $u$ as a function of the components of $v$. Since $v$ is 4D, we choose to make it animated, with each frame plotting v within fixed-time slices of $\mathbb{R}^4$.
